@@ -1,6 +1,6 @@
 # Activité Pratique 4 - Spring-Security
 
-Sécuriser cette application en intégrant un système d'authentification basé sur Spring security avec les trois stratégies : 
+Sécuriser cette application en intégrant un système d'authentification basé sur Spring security avec les trois stratégies: 
 InMemoryAuthentication, JdbcAuthentication et UserDetailsService
 
 -----------
